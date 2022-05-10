@@ -1,0 +1,6 @@
+
+Player1 Hash(rock, nonce) = Hash(0, 123) =
+0x1385cb23bfaf901f9fa85e0faec157d1bc78c2572d11b3dd0a75671265bb881d
+
+Player2 H(paper, nonce) = Hash(1, 234)
+0xe03655b7f2b82ac436db60fd6e4f630abc35a24ae0faf4eebc98a60c94f15d77
